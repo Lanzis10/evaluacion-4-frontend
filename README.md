@@ -8,7 +8,7 @@ En la rutina diaria, la **gestión de tareas pendientes** y la **mantención de 
 
 Esta aplicación web es una **Single Page Application (SPA)** desarrollada con un **framework moderno (ej. Vue o React)**. Su objetivo es simplificar la organización de tareas y fomentar la motivación a través de las siguientes funcionalidades:
 
-* **Gestión de Tareas (CRUD):** Permite **crear, leer, actualizar (marcar como completada) y eliminar** tareas de forma intuitiva.
+* **Gestión de Tareas (CRUD):** Permite **crear, leer, actualizar y eliminar** tareas de forma intuitiva.
 * **Persistencia de Datos:** Todas las tareas se guardan automáticamente utilizando **`localStorage`**, asegurando que la información no se pierda al recargar la página o cerrar el navegador.
 * **Frases Motivacionales:** Al recargar la aplicación, se carga una **nueva frase motivacional** obtenida de una **API pública**. Estas frases se muestran en una sección dedicada para inspirar al usuario.
 * **Componentes Reutilizables:** La interfaz está construida usando **componentes personalizados** que estructuran la aplicación de manera eficiente (ej. un componente para la lista de tareas, otro para la entrada de texto y el botón, y otro para la visualización de la frase).
