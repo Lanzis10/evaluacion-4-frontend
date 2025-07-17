@@ -52,6 +52,5 @@ Sigue estos pasos para configurar y ejecutar la aplicación en tu entorno local:
 ### Funcionalidades
 
 * **Agregar una Tarea:** Ingresa el texto de tu tarea en el campo de entrada y haz clic en el botón "Agregar".
-* **Marcar/Desmarcar Tarea:** (Si aplica, puedes indicar aquí si las tareas se pueden marcar como completadas haciendo clic en ellas, por ejemplo).
 * **Eliminar Tarea:** Haz clic en el botón "Eliminar" junto a la tarea que deseas remover de la lista.
 * **Frase Motivacional:** Cada vez que recargues la página, la frase motivacional en la parte inferior cambiará, ofreciéndote una nueva inspiración.
